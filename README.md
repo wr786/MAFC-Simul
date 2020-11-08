@@ -3,4 +3,4 @@
 
 > Based on *Limit-Cycle-Based Design of Formation Control for Mobile Agents*
 
-#### W.I.P.
+see `.\robotMid.m`。
